@@ -1,0 +1,6 @@
+@CRD_HostAddress = http://localhost:5064
+
+GET {{CRD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
